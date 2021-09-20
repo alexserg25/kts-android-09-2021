@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Strava</string>
+    <string name="btn_demo_skip">Skip</string>
+    <string name="lbl_demo_welcome">Welcome to Strava</string>
+</resources>
