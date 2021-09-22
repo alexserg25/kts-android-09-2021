@@ -1,0 +1,4 @@
+<resources>
+    <string name="btn_demo_skip">Пропустить</string>
+    <string name="lbl_demo_welcome">Добро пожаловать!</string>
+</resources>
